@@ -9,6 +9,6 @@
 - Add edge : ajouter les lien entre les noeuds, et fournir valeur. 
 ( Remarque : On ne peut plus ajuster la position des noeuds )
 
-- Shortest path : donne le plus court chemin par l'algorithme de Dijkstra e fournissant le noeud de depart et le noeud d'arrivé
+- Shortest path : donne le plus court chemin par l'algorithme de Dijkstra en fournissant le noeud de départ et le noeud d'arrivée
 
 - Clear all : efface tous les noeuds
